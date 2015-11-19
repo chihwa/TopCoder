@@ -1,4 +1,4 @@
-package S151;
+package SRM151;
 
 import java.util.ArrayList;
 import java.util.Collections;

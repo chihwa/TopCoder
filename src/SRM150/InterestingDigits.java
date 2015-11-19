@@ -1,4 +1,4 @@
-package S150;
+package SRM150;
 
 import java.util.ArrayList;
 import java.util.Arrays;

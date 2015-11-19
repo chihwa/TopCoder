@@ -1,6 +1,4 @@
-package S151;
-
-import java.util.Arrays;
+package SRM151;
 
 /**
  * Created by Chihwa on 10/29/2015.

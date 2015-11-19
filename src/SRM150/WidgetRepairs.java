@@ -1,4 +1,4 @@
-package S150;
+package SRM150;
 
 /**
  * Created by Chihwa on 10/28/2015.
