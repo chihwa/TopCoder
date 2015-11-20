@@ -1,4 +1,4 @@
-package SRM673;
+package srm673;
 
 /**
  * Created by Chihwa on 11/18/2015.

@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6849b7f5-f681-42ce-95e6-c6b7d9b695c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm151/Birthday.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm152/FixedPointTheorem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm153/Inventory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm152/LeaguePicks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm151/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm153/MostProfitable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm151/PrefixCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm154/ProfitCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm155/Quipu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm154/SuperRot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm150/WidgetRepairs.java" />
-      <change type="DELETED" beforePath="C:\workspace\competitive-programming\TopCoder\.idea\encodings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="C:\workspace\competitive-programming\TopCoder\src\srm673\BearSlowlySorts.java" afterPath="$PROJECT_DIR$/src/srm673/BearSlowlySorts.java" />
+      <change type="MODIFICATION" beforePath="C:\workspace\competitive-programming\TopCoder\src\srm673\BearSong.java" afterPath="$PROJECT_DIR$/src/srm673/BearSong.java" />
     </list>
-    <list id="dc231d32-f844-40d9-b3b7-407bc7015500" name="Failed commit: Default" comment="srm157">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm155/BenfordsLaw.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm156/BombSweeper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm156/DiskSpace.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm157/GuessTheNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm150/InterestingDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm157/Salary.java" />
-    </list>
+    <list id="dc231d32-f844-40d9-b3b7-407bc7015500" name="Failed commit: Default" comment="srm157" />
     <ignored path="TopCoder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -538,12 +519,12 @@
       <created>1447988732638</created>
       <option name="number" value="Default" />
       <updated>1447988732638</updated>
-      <workItem from="1447988735510" duration="16227000" />
+      <workItem from="1447988735510" duration="16340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16227000" />
+    <option name="totallyTimeSpent" value="16340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />

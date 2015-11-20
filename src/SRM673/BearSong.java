@@ -1,4 +1,4 @@
-package SRM673;
+package srm673;
 
 import java.util.HashMap;
 import java.util.Map;
