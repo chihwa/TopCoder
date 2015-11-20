@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6849b7f5-f681-42ce-95e6-c6b7d9b695c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="C:\workspace\competitive-programming\TopCoder\src\srm673\BearSlowlySorts.java" afterPath="$PROJECT_DIR$/src/srm673/BearSlowlySorts.java" />
-      <change type="MODIFICATION" beforePath="C:\workspace\competitive-programming\TopCoder\src\srm673\BearSong.java" afterPath="$PROJECT_DIR$/src/srm673/BearSong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm673_tmp/BearSlowlySorts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm673_tmp/BearSong.java" />
+      <change type="DELETED" beforePath="C:\workspace\competitive-programming\TopCoder\src\SRM673\BearSlowlySorts.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\workspace\competitive-programming\TopCoder\src\SRM673\BearSong.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="dc231d32-f844-40d9-b3b7-407bc7015500" name="Failed commit: Default" comment="srm157" />
     <ignored path="TopCoder.iws" />
@@ -27,11 +30,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Salary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Salary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/srm157/Salary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7818396">
+            <state vertical-scroll-proportion="0.0">
               <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BearSlowlySorts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/srm673_tmp/BearSlowlySorts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BearSong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/srm673_tmp/BearSong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1403302">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -65,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/srm156/BombSweeper.java" />
         <option value="$PROJECT_DIR$/src/srm157/GuessTheNumber.java" />
         <option value="$PROJECT_DIR$/src/srm157/Salary.java" />
+        <option value="$PROJECT_DIR$/src/srm673_tmp/BearSong.java" />
       </list>
     </option>
   </component>
@@ -119,6 +143,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="srm673_tmp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -519,12 +561,12 @@
       <created>1447988732638</created>
       <option name="number" value="Default" />
       <updated>1447988732638</updated>
-      <workItem from="1447988735510" duration="16340000" />
+      <workItem from="1447988735510" duration="16440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16340000" />
+    <option name="totallyTimeSpent" value="16440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -618,8 +660,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/srm157/Salary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7818396">
+        <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/srm673_tmp/BearSlowlySorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/srm673_tmp/BearSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1403302">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
