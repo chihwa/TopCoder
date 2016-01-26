@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SRM 160 DIV 2/SRM 160 DIV 2.iml" filepath="$PROJECT_DIR$/SRM 160 DIV 2/SRM 160 DIV 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRM 225 DIV 2/SRM 225 DIV 2.iml" filepath="$PROJECT_DIR$/SRM 225 DIV 2/SRM 225 DIV 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 679/Single Round Match 679.iml" filepath="$PROJECT_DIR$/Single Round Match 679/Single Round Match 679.iml" />
       <module fileurl="file://$PROJECT_DIR$/TopCoder.iml" filepath="$PROJECT_DIR$/TopCoder.iml" />
     </modules>
   </component>
