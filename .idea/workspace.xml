@@ -1,40 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba6345fb-8a39-4a4f-84b9-c1e6c8f1e391" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/SRM 160 DIV 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/resource/Intersect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/resource/Substitute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/src/Intersect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/src/Substitute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/test/IntersectTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 160 DIV 2/test/SubstituteTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/SRM 225 DIV 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/resource/ParameterSubstitution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/resource/SignatureDecorator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/src/ParameterSubstitution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/src/SignatureDecorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/test/ParameterSubstitutionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 225 DIV 2/test/SignatureDecoratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 679/Single Round Match 679.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 679/resource/ContestScoreboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 679/src/ContestScoreboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 679/test/ContestScoreboardTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ContestScoreboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListeningSongs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm676/FarmvilleDiv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm677/FourStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm677/PalindromePrime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srm678/ThePhantomMenace.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+    <list default="true" id="cec48ff0-72a9-42bf-9c98-6084b513aa57" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/SRM 161 DIV 2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/resource/CardCount.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/resource/StringTrain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/src/CardCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/src/StringTrain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/test/CardCountTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 161 DIV 2/test/StringTrainTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/SRM 162 DIV 2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/resource/LCMRange.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/src/LCMRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/test/LCMRangeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/SRM 163 DIV 2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/resource/CalendarRecycle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/resource/Inchworm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/src/CalendarRecycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/src/Inchworm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/test/CalendarRecycleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/test/InchwormTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/SRM 164 DIV 2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/resource/Justifier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/resource/PartySeats.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/src/PartySeats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/test/JustifierTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/test/PartySeatsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/SRM 680 DIV 2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/resource/BearChairs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/resource/BearPair.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/src/BearChairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/src/BearPair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/test/BearChairsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 680 DIV 2/test/BearPairTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/Single Round Match 681.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/resource/CoinFlipsDiv2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/resource/ExplodingRobots.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/resource/XorLists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/src/CoinFlipsDiv2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/src/ExplodingRobots.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/src/XorLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/test/CoinFlipsDiv2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/test/ExplodingRobotsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 681/test/XorListsTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ContestScoreboard.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TopCoder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +68,26 @@
   <component name="FavoritesManager">
     <favorites_list name="TopCoder" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SRM 163 DIV 2/src/Inchworm.java" />
+        <option value="$PROJECT_DIR$/SRM 163 DIV 2/src/CalendarRecycle.java" />
+        <option value="$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java" />
+        <option value="$PROJECT_DIR$/SRM 164 DIV 2/test/PartySeatsTest.java" />
+        <option value="$PROJECT_DIR$/SRM 164 DIV 2/src/PartySeats.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -76,7 +108,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -94,6 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -114,8 +148,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -125,7 +157,112 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalendarRecycleTest">
+    <configuration default="false" name="CalendarRecycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 163 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalendarRecycleTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="JustifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 164 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JustifierTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="JustifierTest.test0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 164 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JustifierTest" />
+      <option name="METHOD_NAME" value="test0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PartySeatsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 164 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PartySeatsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PartySeatsTest.test0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 164 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PartySeatsTest" />
+      <option name="METHOD_NAME" value="test0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -556,20 +693,68 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalendarRecycleTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JustifierTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.JustifierTest.test0" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PartySeatsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PartySeatsTest.test0" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalendarRecycleTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PartySeatsTest.test0" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PartySeatsTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.JustifierTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.JustifierTest.test0" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba6345fb-8a39-4a4f-84b9-c1e6c8f1e391" name="Default" comment="" />
-      <created>1453781312295</created>
+      <changelist id="cec48ff0-72a9-42bf-9c98-6084b513aa57" name="Default" comment="" />
+      <created>1454916605234</created>
       <option name="number" value="Default" />
-      <updated>1453781312295</updated>
-      <workItem from="1453781314519" duration="21000" />
+      <updated>1454916605234</updated>
+      <workItem from="1454916610303" duration="9934000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CalendarRecycleTest - 2016.02.08 at 01h 57m 47s.xml">
+      <configuration name="CalendarRecycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalendarRecycleTest - 2016.02.08 at 01h 59m 20s.xml">
+      <configuration name="CalendarRecycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalendarRecycleTest - 2016.02.08 at 02h 15m 50s.xml">
+      <configuration name="CalendarRecycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalendarRecycleTest - 2016.02.08 at 02h 17m 31s.xml">
+      <configuration name="CalendarRecycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest - 2016.02.08 at 01h 53m 42s.xml">
+      <configuration name="PartySeatsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest - 2016.02.08 at 01h 54m 09s.xml">
+      <configuration name="PartySeatsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest_test0 - 2016.02.08 at 01h 55m 05s.xml">
+      <configuration name="PartySeatsTest.test0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest_test0 - 2016.02.08 at 01h 56m 37s.xml">
+      <configuration name="PartySeatsTest.test0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest_test0 - 2016.02.08 at 01h 56m 50s.xml">
+      <configuration name="PartySeatsTest.test0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PartySeatsTest_test0 - 2016.02.08 at 01h 57m 38s.xml">
+      <configuration name="PartySeatsTest.test0" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21000" />
+    <option name="totallyTimeSpent" value="9934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -577,10 +762,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21161495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -589,21 +776,110 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SRM 163 DIV 2/test/InchwormTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33251533">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 163 DIV 2/src/Inchworm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.148149">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 163 DIV 2/test/CalendarRecycleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4429448">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 163 DIV 2/src/CalendarRecycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39631903">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 164 DIV 2/test/JustifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46625766">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 164 DIV 2/resource/PartySeats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 164 DIV 2/test/PartySeatsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3748702">
+          <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 164 DIV 2/src/PartySeats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45379025">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
