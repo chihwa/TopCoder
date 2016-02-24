@@ -2,101 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04529af0-e1b4-4272-8f12-14b526aec33f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 160 DIV 2/Intersect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 160 DIV 2/Substitute.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 160 DIV 2/test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/CardCount.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/StringTrain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 162 DIV 2/LCMRange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/CalendarRecycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/Inchworm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/Justifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/PartySeats.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 225 DIV 2/ParameterSubstitution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 225 DIV 2/SignatureDecorator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 680 DIV 2/BearChairs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 680 DIV 2/BearPair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 679/ContestScoreboard.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearChairs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearPair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/CoinFlipsDiv2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/ExplodingRobots.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/XorLists.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/ListeningSongs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm150/InterestingDigits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm150/WidgetRepairs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm151/Birthday.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm151/MergeSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm151/PrefixCode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm152/FixedPointTheorem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm152/LeaguePicks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm153/Inventory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm153/MostProfitable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm154/ProfitCalculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm154/SuperRot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm155/BenfordsLaw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm155/Quipu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm156/BombSweeper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm156/DiskSpace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm157/GuessTheNumber.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm157/Salary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm158/BlackAndRed.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm158/TireRotation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm673/BearSlowlySorts.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm673/BearSong.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm674/RelationClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm675/LengthUnitCalculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm676/FarmvilleDiv2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm677/FourStrings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm677/PalindromePrime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TopCoder/srm678/ThePhantomMenace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 160 DIV 2/IntersectTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 160 DIV 2/SubstituteTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 161 DIV 2/CardCountTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 161 DIV 2/StringTrainTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 162 DIV 2/LCMRangeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 163 DIV 2/CalendarRecycleTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 163 DIV 2/InchwormTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 164 DIV 2/JustifierTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 164 DIV 2/PartySeatsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 680 DIV 2/BearChairsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/SRM 680 DIV 2/BearPairTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Single Round Match 680/BearChairsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Single Round Match 680/BearPairTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Single Round Match 681/CoinFlipsDiv2Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Single Round Match 681/ExplodingRobotsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/Single Round Match 681/XorListsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/resource/BritishCoins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/resource/ParallelSpeedup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/src/BritishCoins.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/src/ParallelSpeedup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/test/BritishCoinsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 165 DIV 2/test/ParallelSpeedupTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/resource/BinaryCardinality.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/resource/Workshop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/src/BinaryCardinality.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/src/Calculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/src/Workshop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/test/BinaryCardinalityTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 166 DIV 2/test/WorkshopTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/resource/Animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/resource/EyeDrops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/src/Animation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/src/EyeDrops.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/test/AnimationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 167 DIV 2/test/EyeDropsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/CardCount.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/StringTrain.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 162 DIV 2/LCMRange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/CalendarRecycle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/Inchworm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/Justifier.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/PartySeats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearChairs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearPair.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/CoinFlipsDiv2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/ExplodingRobots.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/XorLists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/resource/NumberGuesser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/resource/StairClimb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/src/NumberGuesser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/test/NumberGuesserTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 168 DIV 2/test/StairClimbTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 169 DIV 2/resource/Swimmers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 169 DIV 2/resource/Twain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 169 DIV 2/src/Swimmers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 169 DIV 2/test/SwimmersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 170 DIV 2/resource/LevelUp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 170 DIV 2/resource/RecurrenceRelation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 170 DIV 2/src/LevelUp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 170 DIV 2/test/LevelUpTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/resource/CrossCountry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/resource/RPG.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/src/CrossCountry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/src/RPG.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/test/CrossCountryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 171 DIV 2/test/RPGTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/resource/BadClock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/resource/SkipRope.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/src/BadClock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/src/SkipRope.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/test/BadClockTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 172 DIV 2/test/SkipRopeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/resource/ProgressBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/resource/WordForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/src/ProgressBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/src/WordForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/test/ProgressBarTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 173 DIV 2/test/WordFormTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/resource/DNASequence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/resource/TopBiologist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/src/DNASequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/src/TopBiologist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/test/DNASequenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SRM 682 DIV 2/test/TopBiologistTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/resource/DNASequence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/resource/FriendlyRobot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/resource/TopBiologist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/src/DNASequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/src/FriendlyRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/src/TopBiologist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/test/DNASequenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/test/FriendlyRobotTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Single Round Match 682/test/TopBiologistTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -115,14 +68,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 162 DIV 2/resource/LCMRange.html" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/resource/LCMRange.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 162 DIV 2/src/LCMRange.java" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/src/LCMRange.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 162 DIV 2/test/LCMRangeTest.java" afterPath="$PROJECT_DIR$/SRM 162 DIV 2/test/LCMRangeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/SRM 163 DIV 2.iml" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/SRM 163 DIV 2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/resource/CalendarRecycle.html" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/resource/CalendarRecycle.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/resource/Inchworm.html" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/resource/Inchworm.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/src/CalendarRecycle.java" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/src/CalendarRecycle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/src/Inchworm.java" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/src/Inchworm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/test/CalendarRecycleTest.java" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/test/CalendarRecycleTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 163 DIV 2/test/InchwormTest.java" afterPath="$PROJECT_DIR$/SRM 163 DIV 2/test/InchwormTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 164 DIV 2/SRM 164 DIV 2.iml" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/SRM 164 DIV 2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 164 DIV 2/resource/Justifier.html" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/resource/Justifier.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 164 DIV 2/resource/PartySeats.html" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/resource/PartySeats.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java" afterPath="$PROJECT_DIR$/SRM 164 DIV 2/src/Justifier.java" />
@@ -153,6 +104,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Single Round Match 681/test/CoinFlipsDiv2Test.java" afterPath="$PROJECT_DIR$/Single Round Match 681/test/CoinFlipsDiv2Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Single Round Match 681/test/ExplodingRobotsTest.java" afterPath="$PROJECT_DIR$/Single Round Match 681/test/ExplodingRobotsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Single Round Match 681/test/XorListsTest.java" afterPath="$PROJECT_DIR$/Single Round Match 681/test/XorListsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/CardCount.html" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/CardCount.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/StringTrain.html" afterPath="$PROJECT_DIR$/out/production/SRM 161 DIV 2/StringTrain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 162 DIV 2/LCMRange.html" afterPath="$PROJECT_DIR$/out/production/SRM 162 DIV 2/LCMRange.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/CalendarRecycle.html" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/CalendarRecycle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/Inchworm.html" afterPath="$PROJECT_DIR$/out/production/SRM 163 DIV 2/Inchworm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/Justifier.html" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/Justifier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/PartySeats.html" afterPath="$PROJECT_DIR$/out/production/SRM 164 DIV 2/PartySeats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Single Round Match 680/BearChairs.html" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearChairs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Single Round Match 680/BearPair.html" afterPath="$PROJECT_DIR$/out/production/Single Round Match 680/BearPair.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Single Round Match 681/CoinFlipsDiv2.html" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/CoinFlipsDiv2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Single Round Match 681/ExplodingRobots.html" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/ExplodingRobots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Single Round Match 681/XorLists.html" afterPath="$PROJECT_DIR$/out/production/Single Round Match 681/XorLists.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ListeningSongs.java" afterPath="$PROJECT_DIR$/src/ListeningSongs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/srm158/BlackAndRed.java" afterPath="$PROJECT_DIR$/src/srm158/BlackAndRed.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/srm158/TireRotation.java" afterPath="$PROJECT_DIR$/src/srm158/TireRotation.java" />
@@ -168,6 +131,7 @@
     <ignored path="TopCoder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,12 +147,66 @@
   <component name="FavoritesManager">
     <favorites_list name="TopCoder" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WordForm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SRM 173 DIV 2/src/WordForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7460123">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordFormTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRM 173 DIV 2/test/WordFormTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java" />
+        <option value="$PROJECT_DIR$/SRM 169 DIV 2/src/Swimmers.java" />
+        <option value="$PROJECT_DIR$/SRM 169 DIV 2/src/Twain.java" />
+        <option value="$PROJECT_DIR$/SRM 170 DIV 2/src/LevelUp.java" />
+        <option value="$PROJECT_DIR$/SRM 170 DIV 2/src/RecurrenceRelation.java" />
+        <option value="$PROJECT_DIR$/Single Round Match 682/src/FriendlyRobot.java" />
+        <option value="$PROJECT_DIR$/Single Round Match 682/src/TopBiologist.java" />
+        <option value="$PROJECT_DIR$/Single Round Match 682/test/TopBiologistTest.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/Single Round Match 682/src/DNASequence.java" />
+        <option value="$PROJECT_DIR$/SRM 682 DIV 2/src/DNASequence.java" />
+        <option value="$PROJECT_DIR$/SRM 682 DIV 2/src/TopBiologist.java" />
+        <option value="$PROJECT_DIR$/SRM 682 DIV 2/test/TopBiologistTest.java" />
+        <option value="$PROJECT_DIR$/SRM 172 DIV 2/src/SkipRope.java" />
+        <option value="$PROJECT_DIR$/SRM 172 DIV 2/src/BadClock.java" />
+        <option value="$PROJECT_DIR$/SRM 173 DIV 2/src/ProgressBar.java" />
+        <option value="$PROJECT_DIR$/SRM 173 DIV 2/src/WordForm.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -209,7 +227,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -221,12 +239,13 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,18 +266,127 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\competitive-programming\TopCoder\Single Round Match 682\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WordFormTest">
+    <configuration default="false" name="SkipRopeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 172 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SkipRopeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="BadClockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 172 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BadClockTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProgressBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 173 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgressBarTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 173 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFormTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordFormTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SRM 173 DIV 2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFormTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -675,6 +803,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -689,54 +822,458 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SkipRopeTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BadClockTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ProgressBarTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WordFormTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.WordFormTest.test3" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.WordFormTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WordFormTest.test3" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ProgressBarTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BadClockTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="04529af0-e1b4-4272-8f12-14b526aec33f" name="Default" comment="" />
       <created>1455695087268</created>
       <option name="number" value="Default" />
       <updated>1455695087268</updated>
-      <workItem from="1455695090585" duration="12000" />
+      <workItem from="1455695090585" duration="707000" />
+      <workItem from="1455696967291" duration="924000" />
+      <workItem from="1455780294606" duration="2379000" />
+      <workItem from="1455850838006" duration="4741000" />
+      <workItem from="1456191220905" duration="6888000" />
+      <workItem from="1456211406740" duration="2300000" />
+      <workItem from="1456216652782" duration="2800000" />
+      <workItem from="1456288514743" duration="9493000" />
     </task>
+    <task id="LOCAL-00001" summary="srm practice">
+      <created>1455695125938</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455695125938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="WordFormTest - 2016.02.24 at 02h 41m 22s.xml">
+      <configuration name="WordFormTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest - 2016.02.24 at 02h 43m 08s.xml">
+      <configuration name="WordFormTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest - 2016.02.24 at 02h 44m 38s.xml">
+      <configuration name="WordFormTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 01h 36m 16s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 01h 37m 14s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 01h 37m 46s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 01h 38m 13s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 01h 59m 01s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 02h 40m 57s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordFormTest_test3 - 2016.02.24 at 02h 41m 16s.xml">
+      <configuration name="WordFormTest.test3" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12000" />
+    <option name="totallyTimeSpent" value="30232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14626391" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="srm practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="srm practice" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Single Round Match 682/src/FriendlyRobot.java</url>
+          <line>26</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/src/SkipRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/test/SkipRopeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/src/DNASequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/src/TopBiologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/test/TopBiologistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/src/FriendlyRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/src/TopBiologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/test/TopBiologistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/test/FriendlyRobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/NumberGuesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 169 DIV 2/src/Swimmers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 170 DIV 2/src/LevelUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 171 DIV 2/src/RPG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 171 DIV 2/src/CrossCountry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/NumberGuesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 169 DIV 2/src/Swimmers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/NumberGuesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 169 DIV 2/test/SwimmersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.790184">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 171 DIV 2/src/CrossCountry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09268293">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 171 DIV 2/src/RPG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 170 DIV 2/src/LevelUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06178862">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 169 DIV 2/src/Swimmers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1699187">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/NumberGuesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 168 DIV 2/src/StairClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09268293">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/test/FriendlyRobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/src/FriendlyRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/src/DNASequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.037037">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/src/DNASequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/test/TopBiologistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 682 DIV 2/src/TopBiologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/test/TopBiologistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Single Round Match 682/src/TopBiologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.093251534">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/test/SkipRopeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44796747">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/src/SkipRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12357724">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/test/BadClockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60368097">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 173 DIV 2/src/ProgressBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1398773">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 172 DIV 2/src/BadClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30306748">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 173 DIV 2/test/WordFormTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRM 173 DIV 2/src/WordForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7460123">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
